@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes e-commerce sales performance, customer behavior, delivery performance, and customer satisfaction using SQL and Power BI.
+![Dashboard](screenshots/dashboard.png)
 
 ## Tools Used
 - SQL Server
