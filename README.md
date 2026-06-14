@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Experience Analysis
+Sales & Customer Experience Analysis
 
 ## Project Overview
 This project analyzes e-commerce sales performance, customer behavior, delivery performance, and customer satisfaction using SQL and Power BI.
